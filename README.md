@@ -42,4 +42,4 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE). Sinta-se à vontade
 
 ## Contato
 
-Em caso de dúvidas ou sugestões, entre em contato através do e-mail [seu-email@example.com](mailto:seu-email@example.com).
+Em caso de dúvidas ou sugestões, deixe uma issue.
